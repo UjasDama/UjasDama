@@ -1,3 +1,4 @@
+![Final Octocat](https://github.com/UjasDama/UjasDama/assets/146843552/78d1f0b6-d6de-4593-81de-3c6e078e5cbc)
 - 👋 Hi, I’m @UjasDama
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
