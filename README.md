@@ -9,6 +9,5 @@
 UjasDama/UjasDama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Final Octocat](https://github.com/UjasDama/UjasDama/assets/146843552/78d1f0b6-d6de-4593-81de-3c6e078e5cbc)
 
 
