@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UjasDama
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on code
+- 💞️ I’m looking to collaborate on code with other students
 - 📫 How to reach me gmail:damau26@wpsma.org
 
 <!---
