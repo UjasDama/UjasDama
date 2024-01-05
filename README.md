@@ -13,5 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 [robotface](https://ujasdama.github.io/Robot-Face/)
 > This project displays a robot that changes color characteristics in it's robotic features each time it is reset.
-[captionedscene](https://studio.code.org/projects/gamelab/wvckd2WZf7xYpgwJJz65TVss_xZnyALSeEytVOAF14k)
+
+[captionedscene](https://studio.code.org/projects/gamelab/TfkLvkVahSJL6BqdPD3ZjzPD5pc_ny0_3RQnjR8lPHM)
+> This project showcases a scene where a singer is performing at a concert of his. 
 
