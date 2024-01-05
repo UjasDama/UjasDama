@@ -12,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 ### code.org game lab
 
 [robotface](https://ujasdama.github.io/Robot-Face/)
-> desc
+> This project displays a robot that changes color characteristics in it's robotic features each time it is reset.
+[captionedscene](https://studio.code.org/projects/gamelab/wvckd2WZf7xYpgwJJz65TVss_xZnyALSeEytVOAF14k)
+
